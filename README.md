@@ -1,6 +1,10 @@
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EoKz&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EoKz&theme=github_dark" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=EoKz&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=EoKz&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="125" src="https://github-readme-stats.shion.dev/api/top-langs/?username=EoKz&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <h3 align="center">Skills</h3>
@@ -9,10 +13,6 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,git,nodejs,bun,js,ts,rust&perline=8" alt="Core skills" />
   <br />
   <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,html,css&perline=5" alt="Cloud database and frontend skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
 <picture>
