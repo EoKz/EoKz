@@ -2,14 +2,16 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/EoKz/EoKz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/EoKz/EoKz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/EoKz/EoKz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /></td>
+    <td><img src="https://raw.githubusercontent.com/EoKz/EoKz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph" /></td>
+  </tr>
+</table>
 
 ###
 
-<img data-importer="image" align="right" height="160" src="https://i.postimg.cc/WbB55Wdh/6a44bbb40404c7f79f502ed12f8958e2c2f8d1e0a1ca7bdc6839e5299f5a673b.gif"  />
+<img data-importer="image" align="right" height="160" src="https://raw.githubusercontent.com/EoKz/EoKz/main/assets/profile.png" />
 
 ###
 
